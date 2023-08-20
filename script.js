@@ -26,7 +26,6 @@ let tetrominoes = [
         [1, 1, 0],
         [0, 1, 1]
     ]
-    //... puedes agregar más formas aquí
 ];
 
 let tetromino = tetrominoes[Math.floor(Math.random() * tetrominoes.length)];
